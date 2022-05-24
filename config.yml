@@ -12,6 +12,7 @@ publishDir: docs
 
 googleAnalytics: UA-123-45
 
+
 minify:
   disableXML: true
   minifyOutput: true
