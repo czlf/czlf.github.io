@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://czlf.github.io/"
 title: czlf
 paginate: 10
 theme: PaperMod
@@ -106,12 +106,3 @@ menu:
       name: 关于我
       url: https://example.org
       weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
