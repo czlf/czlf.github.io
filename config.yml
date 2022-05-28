@@ -104,5 +104,5 @@ menu:
       weight: 20
     - identifier: example
       name: 关于我
-      url: https://example.org
+      url: /about/
       weight: 30
